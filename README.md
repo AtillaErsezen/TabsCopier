@@ -1,4 +1,4 @@
-<img src="icon.png" alt="Tabs Copier logo" width="80">
+<p align="center"><img src="icon.png" alt="Tabs Copier logo" width="80"></p>
 
 # Tabs Copier
 
