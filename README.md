@@ -1,3 +1,5 @@
+<img src="icon.png" alt="Tabs Copier logo" width="80">
+
 # Tabs Copier
 
 A small browser extension that lists the URLs of all your open tabs and copies them to the clipboard in one click.
