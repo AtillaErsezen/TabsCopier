@@ -26,3 +26,7 @@ Tabs Copier does not send anything itself. There's no email or WhatsApp integrat
 4. Click **Load unpacked** and select the project folder.
 
 The only permission it needs is `tabs`, which lets it read the URLs of your open tabs.
+
+## Privacy
+
+Tabs Copier collects no data and makes no network requests. Tab URLs are only read to show them in the popup and copy them to your clipboard; nothing is stored or sent anywhere.
